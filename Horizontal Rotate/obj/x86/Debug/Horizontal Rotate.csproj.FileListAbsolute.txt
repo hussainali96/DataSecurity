@@ -1,0 +1,14 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\bin\Debug\Horizontal Rotate.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\bin\Debug\Horizontal Rotate.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\obj\x86\Debug\Horizontal_Rotate.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\obj\x86\Debug\Horizontal_Rotate.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.pdb
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.exe
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.pdb
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\bin\Debug\Horizontal Rotate.exe
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\bin\Debug\Horizontal Rotate.pdb
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\obj\x86\Debug\Horizontal_Rotate.Form1.resources
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\obj\x86\Debug\Horizontal_Rotate.Properties.Resources.resources
+C:\Users\Admin\Downloads\C#\Horizontal Rotate\Horizontal Rotate\obj\x86\Debug\Horizontal Rotate.csproj.GenerateResource.Cache

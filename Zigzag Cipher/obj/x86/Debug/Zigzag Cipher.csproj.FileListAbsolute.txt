@@ -1,0 +1,9 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\bin\Debug\Zigzag Cipher.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\bin\Debug\Zigzag Cipher.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\obj\x86\Debug\Zigzag_Cipher.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\obj\x86\Debug\Zigzag_Cipher.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\obj\x86\Debug\Zigzag Cipher.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\obj\x86\Debug\Zigzag Cipher.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Zigzag Cipher\obj\x86\Debug\Zigzag Cipher.pdb
+C:\Users\Admin\Downloads\C#\Zigzag Cipher\Zigzag Cipher\obj\x86\Debug\Zigzag Cipher.exe
+C:\Users\Admin\Downloads\C#\Zigzag Cipher\Zigzag Cipher\obj\x86\Debug\Zigzag Cipher.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\bin\Debug\Pattern Cipher.exe
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\bin\Debug\Pattern Cipher.pdb
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern Cipher.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern_Cipher.Form1.resources
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern_Cipher.Properties.Resources.resources
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern Cipher.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern Cipher.exe
+C:\Users\Admin\Downloads\C#\Pattern Cipher\Pattern Cipher\obj\x86\Debug\Pattern Cipher.pdb

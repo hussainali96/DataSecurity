@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\bin\Debug\Vertical Rotate.exe
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\bin\Debug\Vertical Rotate.pdb
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical Rotate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical_Rotates.Form1.resources
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical_Rotates.Properties.Resources.resources
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical Rotate.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical Rotate.exe
+C:\Users\Admin\Downloads\C#\Vertical Rotate\Vertical Rotate\obj\x86\Debug\Vertical Rotate.pdb
